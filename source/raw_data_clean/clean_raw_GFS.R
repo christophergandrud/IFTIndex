@@ -14,6 +14,7 @@ library(data.table)
 library(dplyr)
 library(DataCombine)
 library(tidyr)
+library(countrycode)
 
 # Import full data set
 ## Data downloaded 2015-02-19 from data.imf.org
@@ -31,23 +32,23 @@ fiscal <- fiscal %>% arrange(CountryName, Time, IndicatorName)
 
 # Keep only version in national currency
 smaller <- fiscal %>% grepl.sub(pattern = '.*XDC', Var = 'IndicatorCode')
+smaller <- smaller %>% filter(AccountingMethodName == 'Cash')
 vars <- unique(smaller$IndicatorName)
 
-keep <- c(
-    "Government Assets and Liabilities, Liabilities (=GGAL_G01), National Currency",
-    "Government Assets and Liabilities, Liabilities, Domestic (=GGALD_G01), National Currency",
-    "Government Assets and Liabilities, Liabilities, Foreign (=GGALF_G01), National Currency",
+keepers <- c(
+    "Government Assets and Liabilities, Liabilities .*, National Currency",
+    "Government Assets and Liabilities, Liabilities, Domestic .*, National Currency",
+    "Government Assets and Liabilities, Liabilities, Foreign .*, National Currency",
     "Government Cash Inflow from Operation Activities, 2001 Manual, National Currency",
     "Government Cash Infow from Financing Activities, 2001 Manual, National Currency",
-    "Government Cash surplus/deficit, 2001 Manual, National Currency",
+    "Government Cash surplus\\/deficit, 2001 Manual, National Currency",
     "Government Gross operating balance, 2001 Manual, National Currency",
-    "Government Net lending/borrowing, 2001 Manual, National Currency",
+    "Government Net lending\\/borrowing, 2001 Manual, National Currency",
     "Government Net operating balance, 2001 Manual, National Currency",
-    "Government Assets and Liabilities, Debt (at Market Value), Classification of holding gains in assets and liabilities, 2001 Manual, National Currency",
-    "Government Assets and Liabilities, Debt (at Nominal Value), Classification of the stocks of assets and liabilities, 2001 Manual, National Currency"
+    "Government Assets and Liabilities, Debt .*, Classification of holding gains in assets and liabilities, 2001 Manual, National Currency"
 )
 
-smaller <- smaller %>% grepl.sub(pattern = keep, Var = 'IndicatorName')
+smaller <- smaller %>% grepl.sub(pattern = keepers, Var = 'IndicatorName')
 
 
 #### Create indicator key ####
@@ -55,4 +56,9 @@ key <- data.frame(IndicatorCode = unique(smaller$IndicatorCode),
                   IndicatorName = unique(smaller$IndicatorName))
 
 #### Spread data ####
-smaller <- 
+fiscal_spread <- smaller %>% select(CountryName, CountryCode, Time, 
+                                    IndicatorCode, Value) 
+fiscal_spread$Time <- as.numeric(fiscal_spread$Time)
+fiscal_spread$Value <- as.numeric(fiscal_spread$Value)
+
+fiscal_spread <- fiscal_spread %>% spread(IndicatorCode, Value)
