@@ -58,10 +58,10 @@ MoltenReady <- arrange(MoltenBase, countrynum, yearnum, variable)
 
 # ---------------------------------------------------------------------------- #
 #### Specify Model ####
-frt_code <- 'source/'
+ift_code <- 'source/IFT.stan'
 
 #### Create data list for Stan ####
-frt_data <- list(
+ift_data <- list(
     C = NCountry,
     T = NYear,
     K = NItems,
@@ -73,17 +73,17 @@ frt_data <- list(
 )
 
 # Create Empty Stan model (so it only needs to compile once)
-empty_stan <- stan(model_code = frt_code, data = frt_data, chains = 0)
+empty_stan <- stan(file = ift_code, data = ift_data, chains = 0)
 
 # Run on 4 cores
 sflist <-
     mclapply(1:4, mc.cores = 4,
-             function(i) stan(fit = empty_stan, data = frt_data,
+             function(i) stan(fit = empty_stan, data = ift_data,
                               seed = i, chains = 1,
-                              iter = 10000, chain_id = i,
+                              iter = 50, chain_id = i,
                               pars = c('delta', 'alpha', 'beta', 'log_gamma'),
                               diagnostic_file = paste0(
-                                  'frt_sims_diagnostic', Sys.Date())
+                                  'ift_sims_diagnostic', Sys.Date())
              )
     )
 
