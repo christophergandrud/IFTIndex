@@ -13,6 +13,7 @@ setwd('/git_repositories/IFTIndex/')
 library(dplyr)
 library(WDI)
 library(countrycode)
+library(DataCombine)
 
 # Function to find the proportion of indicators reported
 
@@ -42,15 +43,17 @@ budget_sub <- subset(budget_full, region != 'Aggregates')
 budget_sub <- subset(budget_sub, !is.na(region))
 
 budget_sub <- budget_sub[, c('iso2c', 'year', indicators)]
+budget_sub <- budget_sub %>% filter(!is.na(iso2c))
 
 budget_sub$country <- countrycode(budget_sub$iso2c, origin = 'iso2c',
                                   destination = 'country.name')
+budget_sub <- budget_sub %>% MoveFront(Var = 'country')
 budget_sub <- budget_sub %>% filter(!is.na(country))
 
 budget_sub <- budget_sub %>% arrange(country, year)
 
 #### Create missingness dummy ####
-IndSub <- budget_sub %>% select(-iso2c, -year) %>% names()
+IndSub <- budget_sub %>% select(-country, -iso2c, -year) %>% names()
 
 for (i in IndSub){
     budget_sub[, paste0('Rep_', i)] <- 1
