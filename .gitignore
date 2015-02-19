@@ -6,3 +6,7 @@ completer.hist
 
 ## Ignore raw data, which is > 500mb
 source/raw_data_clean/raw/*
+
+
+## Ignore .RData files as they are large in this project
+*.RData
