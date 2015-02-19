@@ -1,0 +1,5 @@
+##### Files to ignore from version control ####
+
+
+## Ignore raw data, which is > 500mb
+source/raw_data_clean/.*csv
