@@ -80,7 +80,7 @@ sflist <-
     mclapply(1:4, mc.cores = 4,
              function(i) stan(fit = empty_stan, data = ift_data,
                               seed = i, chains = 1,
-                              iter = 50, chain_id = i,
+                              iter = 100, chain_id = i,
                               pars = c('delta', 'alpha', 'beta', 'log_gamma'),
                               diagnostic_file = paste0(
                                   'ift_sims_diagnostic', Sys.Date())
