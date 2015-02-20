@@ -1,7 +1,7 @@
 ########################################################################
 # Download and clean central government budget statistics 
 # Christopher Gandrud
-# 19 February 2015
+# 20 February 2015
 # Christopher Gandrud
 # MIT License
 #########################################################################
@@ -36,8 +36,44 @@ indicators <- c('GC.DOD.TOTL.GD.ZS',
                 'GC.XPN.TOTL.GD.ZS',
                 'GC.TAX.TOTL.GD.ZS')
 
+## EMBI+ + China country list
+
+EMBI <- c(
+    'Argentina',
+    'Brazil',
+    'Bulgaria',
+    'China',
+    'Colombia',
+    'Ecuador',
+    'Egypt',
+    'Mexico',
+    'Morocco',
+    'Nigeria',
+    'Panama',
+    'Peru',
+    'Philippines',
+    'Poland',
+    'Russian Federation',
+    'South Africa',
+    'Turkey',
+    'Ukraine',
+    'Venezuela'
+)
+
 budget_full <- WDI(indicator = indicators, start = 1990, end = 2012,
                    extra = TRUE) 
+
+# Subset for high income
+budget_high <- grepl.sub(data = budget_full, Var = 'income', 
+                         pattern = 'High income')
+
+# Subset for EMBI+, + China
+embi_iso <- countrycode(EMBI, origin = 'country.name', destination = 'iso2c')
+budget_embi <- grepl.sub(data = budget_full, Var = 'iso2c', patter = embi_iso)
+
+# Combine
+budget_full <- rbind(budget_high, budget_embi)
+budget_full <- budget_full[!duplicated(budget_full[, c('country', 'year')]), ]
 
 budget_sub <- subset(budget_full, region != 'Aggregates')
 budget_sub <- subset(budget_sub, !is.na(region))

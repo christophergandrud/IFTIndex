@@ -1,7 +1,7 @@
 ###########################
 # Run model in parallel
 # Christopher Gandrud
-# 19 February 2014
+# 20 February 2014
 # MIT License
 ###########################
 
@@ -75,12 +75,12 @@ ift_data <- list(
 # Create Empty Stan model (so it only needs to compile once)
 empty_stan <- stan(file = ift_code, data = ift_data, chains = 0)
 
-# Run on 4 cores (w)
+# Run on 4 cores
 sflist <-
     mclapply(1:4, mc.cores = 4,
              function(i) stan(fit = empty_stan, data = ift_data,
                               seed = i, chains = 1,
-                              iter = 100, chain_id = i,
+                              iter = 50, chain_id = i,
                               pars = c('delta', 'alpha', 'beta', 'log_gamma')
                               #,
                               #diagnostic_file = paste0(
