@@ -1,0 +1,673 @@
+"country","iso2c","year","Rep_FS.AST.CGOV.GD.ZS","Rep_GC.BAL.CASH.GD.ZS","Rep_GC.DOD.TOTL.GD.ZS","Rep_GC.REV.XGRT.GD.ZS","Rep_GC.TAX.TOTL.GD.ZS","Rep_GC.XPN.TOTL.GD.ZS"
+"Argentina","AR",2005,0,0,0,0,0,0
+"Argentina","AR",2006,0,0,0,0,0,0
+"Argentina","AR",2007,0,0,0,0,0,0
+"Argentina","AR",2008,0,0,0,0,0,0
+"Argentina","AR",2009,1,0,0,0,0,0
+"Argentina","AR",2010,1,0,0,0,0,0
+"Argentina","AR",2011,1,0,0,0,0,0
+"Argentina","AR",2012,1,0,0,0,0,0
+"Aruba","AW",2005,0,0,0,0,0,0
+"Aruba","AW",2006,0,0,0,0,0,0
+"Aruba","AW",2007,0,0,0,0,0,0
+"Aruba","AW",2008,0,0,0,0,0,0
+"Aruba","AW",2009,0,0,0,0,0,0
+"Aruba","AW",2010,0,0,0,0,0,0
+"Aruba","AW",2011,1,0,0,0,0,0
+"Aruba","AW",2012,0,0,0,0,0,0
+"Australia","AU",2005,0,1,1,1,1,1
+"Australia","AU",2006,0,1,1,1,1,1
+"Australia","AU",2007,0,1,1,1,1,1
+"Australia","AU",2008,0,1,1,1,1,1
+"Australia","AU",2009,1,1,1,1,1,1
+"Australia","AU",2010,1,1,1,1,1,1
+"Australia","AU",2011,1,1,1,1,1,1
+"Australia","AU",2012,1,1,1,1,1,1
+"Austria","AT",2005,0,1,1,1,1,1
+"Austria","AT",2006,0,1,1,1,1,1
+"Austria","AT",2007,0,1,1,1,1,1
+"Austria","AT",2008,0,1,1,1,1,1
+"Austria","AT",2009,1,1,1,1,1,1
+"Austria","AT",2010,1,1,1,1,1,1
+"Austria","AT",2011,1,1,1,1,1,1
+"Austria","AT",2012,1,1,1,1,1,1
+"Bahamas","BS",2005,0,1,0,1,1,1
+"Bahamas","BS",2006,0,0,0,0,0,0
+"Bahamas","BS",2007,0,0,0,0,0,0
+"Bahamas","BS",2008,0,0,0,0,0,0
+"Bahamas","BS",2009,1,1,1,1,1,1
+"Bahamas","BS",2010,1,1,1,1,1,1
+"Bahamas","BS",2011,1,1,0,1,1,1
+"Bahamas","BS",2012,1,1,1,1,1,1
+"Bahrain","BH",2005,0,1,1,1,1,1
+"Bahrain","BH",2006,0,0,0,0,0,0
+"Bahrain","BH",2007,0,0,0,0,0,0
+"Bahrain","BH",2008,0,1,1,1,1,1
+"Bahrain","BH",2009,1,0,0,0,0,0
+"Bahrain","BH",2010,1,0,0,0,0,0
+"Bahrain","BH",2011,1,0,0,0,0,0
+"Bahrain","BH",2012,1,0,0,0,0,0
+"Barbados","BB",2005,0,0,0,0,0,0
+"Barbados","BB",2006,0,0,0,0,0,0
+"Barbados","BB",2007,0,0,0,0,0,0
+"Barbados","BB",2008,0,0,0,0,0,0
+"Barbados","BB",2009,1,0,0,0,0,0
+"Barbados","BB",2010,0,1,1,1,1,1
+"Barbados","BB",2011,0,0,0,0,0,0
+"Barbados","BB",2012,0,0,0,0,0,0
+"Belgium","BE",2005,0,1,1,1,1,1
+"Belgium","BE",2006,0,1,1,1,1,1
+"Belgium","BE",2007,0,0,0,0,0,0
+"Belgium","BE",2008,0,1,1,1,1,1
+"Belgium","BE",2009,1,1,1,1,1,1
+"Belgium","BE",2010,1,1,1,1,1,1
+"Belgium","BE",2011,1,1,1,1,1,1
+"Belgium","BE",2012,1,1,1,1,1,1
+"Bermuda","BM",2005,0,0,0,0,0,0
+"Bermuda","BM",2006,0,0,0,0,0,0
+"Bermuda","BM",2007,0,0,0,0,0,0
+"Bermuda","BM",2008,0,0,0,0,0,0
+"Bermuda","BM",2009,0,0,0,0,0,0
+"Bermuda","BM",2010,0,0,0,0,0,0
+"Bermuda","BM",2011,0,0,0,0,0,0
+"Bermuda","BM",2012,0,0,0,0,0,0
+"Brazil","BR",2005,0,0,0,0,0,0
+"Brazil","BR",2006,0,0,0,0,0,0
+"Brazil","BR",2007,0,0,0,0,0,0
+"Brazil","BR",2008,0,1,1,1,1,1
+"Brazil","BR",2009,1,1,1,1,1,1
+"Brazil","BR",2010,1,1,1,1,1,1
+"Brazil","BR",2011,1,1,1,1,1,1
+"Brazil","BR",2012,1,1,0,1,1,1
+"Brunei Darussalam","BN",2005,0,0,0,0,0,0
+"Brunei Darussalam","BN",2006,0,0,0,0,0,0
+"Brunei Darussalam","BN",2007,0,0,0,0,0,0
+"Brunei Darussalam","BN",2008,0,0,0,0,0,0
+"Brunei Darussalam","BN",2009,1,0,0,0,0,0
+"Brunei Darussalam","BN",2010,1,0,0,0,0,0
+"Brunei Darussalam","BN",2011,1,0,0,0,0,0
+"Brunei Darussalam","BN",2012,1,0,0,0,0,0
+"Bulgaria","BG",2005,0,1,0,1,1,1
+"Bulgaria","BG",2006,0,1,0,1,1,1
+"Bulgaria","BG",2007,0,1,0,1,1,1
+"Bulgaria","BG",2008,0,1,0,1,1,1
+"Bulgaria","BG",2009,1,1,0,1,1,1
+"Bulgaria","BG",2010,1,1,0,1,1,1
+"Bulgaria","BG",2011,1,1,1,1,1,1
+"Bulgaria","BG",2012,1,1,1,1,1,1
+"Canada","CA",2005,0,1,0,1,1,1
+"Canada","CA",2006,0,1,0,1,1,1
+"Canada","CA",2007,0,1,0,1,1,1
+"Canada","CA",2008,0,1,0,1,1,1
+"Canada","CA",2009,0,1,1,1,1,1
+"Canada","CA",2010,0,1,1,1,1,1
+"Canada","CA",2011,0,1,1,1,1,1
+"Canada","CA",2012,0,1,1,1,1,1
+"Cayman Islands","KY",2005,0,0,0,0,0,0
+"Cayman Islands","KY",2006,0,0,0,0,0,0
+"Cayman Islands","KY",2007,0,0,0,0,0,0
+"Cayman Islands","KY",2008,0,0,0,0,0,0
+"Cayman Islands","KY",2009,0,0,0,0,0,0
+"Cayman Islands","KY",2010,0,0,0,0,0,0
+"Cayman Islands","KY",2011,0,0,0,0,0,0
+"Cayman Islands","KY",2012,0,0,0,0,0,0
+"China","CN",2005,0,0,0,0,0,0
+"China","CN",2006,0,0,0,0,0,0
+"China","CN",2007,0,0,0,0,0,0
+"China","CN",2008,0,0,0,0,0,0
+"China","CN",2009,1,0,0,0,0,0
+"China","CN",2010,1,0,0,0,0,0
+"China","CN",2011,1,0,0,0,0,0
+"China","CN",2012,1,0,0,0,0,0
+"Colombia","CO",2005,0,1,1,1,1,1
+"Colombia","CO",2006,0,1,1,1,1,1
+"Colombia","CO",2007,0,1,1,1,1,1
+"Colombia","CO",2008,0,1,1,1,1,1
+"Colombia","CO",2009,1,1,1,1,1,1
+"Colombia","CO",2010,1,1,1,1,1,1
+"Colombia","CO",2011,1,1,1,1,1,1
+"Colombia","CO",2012,1,1,1,1,1,1
+"Croatia","HR",2005,0,1,0,1,1,1
+"Croatia","HR",2006,0,1,0,1,1,1
+"Croatia","HR",2007,0,1,0,1,1,1
+"Croatia","HR",2008,0,1,0,1,1,1
+"Croatia","HR",2009,1,1,0,1,1,1
+"Croatia","HR",2010,1,1,0,1,1,1
+"Croatia","HR",2011,1,1,0,1,1,1
+"Croatia","HR",2012,1,1,0,1,1,1
+"Curacao","CW",2005,0,0,0,0,0,0
+"Curacao","CW",2006,0,0,0,0,0,0
+"Curacao","CW",2007,0,0,0,0,0,0
+"Curacao","CW",2008,0,0,0,0,0,0
+"Curacao","CW",2009,0,0,0,0,0,0
+"Curacao","CW",2010,0,0,0,0,0,0
+"Curacao","CW",2011,0,0,0,0,0,0
+"Curacao","CW",2012,0,0,0,0,0,0
+"Cyprus","CY",2005,0,0,0,0,0,0
+"Cyprus","CY",2006,0,1,1,1,1,1
+"Cyprus","CY",2007,0,1,1,1,1,1
+"Cyprus","CY",2008,0,1,1,1,1,1
+"Cyprus","CY",2009,1,1,1,1,1,1
+"Cyprus","CY",2010,1,1,0,1,1,1
+"Cyprus","CY",2011,1,1,1,1,1,1
+"Cyprus","CY",2012,1,1,1,1,1,1
+"Czech Republic","CZ",2005,0,1,1,1,1,1
+"Czech Republic","CZ",2006,0,1,1,1,1,1
+"Czech Republic","CZ",2007,0,1,1,1,1,1
+"Czech Republic","CZ",2008,0,1,1,1,1,1
+"Czech Republic","CZ",2009,1,1,1,1,1,1
+"Czech Republic","CZ",2010,1,1,1,1,1,1
+"Czech Republic","CZ",2011,1,1,1,1,1,1
+"Czech Republic","CZ",2012,1,1,1,1,1,1
+"Denmark","DK",2005,0,0,0,0,0,0
+"Denmark","DK",2006,0,1,1,1,1,1
+"Denmark","DK",2007,0,1,1,1,1,1
+"Denmark","DK",2008,0,1,1,1,1,1
+"Denmark","DK",2009,1,1,1,1,1,1
+"Denmark","DK",2010,1,1,1,1,1,1
+"Denmark","DK",2011,1,1,1,1,1,1
+"Denmark","DK",2012,1,1,1,1,1,1
+"Ecuador","EC",2005,0,0,0,0,0,0
+"Ecuador","EC",2006,0,0,0,0,0,0
+"Ecuador","EC",2007,0,0,0,0,0,0
+"Ecuador","EC",2008,0,0,0,0,0,0
+"Ecuador","EC",2009,1,0,0,0,0,0
+"Ecuador","EC",2010,1,0,0,0,0,0
+"Ecuador","EC",2011,1,0,0,0,0,0
+"Ecuador","EC",2012,1,0,0,0,0,0
+"Egypt","EG",2005,0,0,0,0,0,0
+"Egypt","EG",2006,0,1,0,1,1,1
+"Egypt","EG",2007,0,1,0,1,1,1
+"Egypt","EG",2008,0,1,0,1,1,1
+"Egypt","EG",2009,1,1,1,1,1,1
+"Egypt","EG",2010,1,1,0,1,1,1
+"Egypt","EG",2011,1,1,0,1,1,1
+"Egypt","EG",2012,1,1,0,1,1,1
+"Equatorial Guinea","GQ",2005,0,0,0,0,0,0
+"Equatorial Guinea","GQ",2006,0,0,0,0,0,0
+"Equatorial Guinea","GQ",2007,0,0,0,0,0,0
+"Equatorial Guinea","GQ",2008,0,0,0,0,0,0
+"Equatorial Guinea","GQ",2009,1,0,0,0,0,0
+"Equatorial Guinea","GQ",2010,1,0,0,0,0,0
+"Equatorial Guinea","GQ",2011,1,0,0,0,0,0
+"Equatorial Guinea","GQ",2012,1,0,0,0,0,0
+"Estonia","EE",2005,0,0,0,0,0,0
+"Estonia","EE",2006,0,1,1,1,1,1
+"Estonia","EE",2007,0,1,1,1,1,1
+"Estonia","EE",2008,0,1,1,1,1,1
+"Estonia","EE",2009,1,1,1,1,1,1
+"Estonia","EE",2010,1,1,1,1,1,1
+"Estonia","EE",2011,1,1,1,1,1,1
+"Estonia","EE",2012,1,1,1,1,1,1
+"Faroe Islands","FO",2005,0,0,0,0,0,0
+"Faroe Islands","FO",2006,0,0,0,0,0,0
+"Faroe Islands","FO",2007,0,0,0,0,0,0
+"Faroe Islands","FO",2008,0,0,0,0,0,0
+"Faroe Islands","FO",2009,0,0,0,0,0,0
+"Faroe Islands","FO",2010,0,0,0,0,0,0
+"Faroe Islands","FO",2011,0,0,0,0,0,0
+"Faroe Islands","FO",2012,0,0,0,0,0,0
+"Finland","FI",2005,0,1,0,1,1,1
+"Finland","FI",2006,0,1,1,1,1,1
+"Finland","FI",2007,0,1,1,1,1,1
+"Finland","FI",2008,0,1,1,1,1,1
+"Finland","FI",2009,1,0,0,0,0,0
+"Finland","FI",2010,1,1,1,1,1,1
+"Finland","FI",2011,1,1,1,1,1,1
+"Finland","FI",2012,1,1,1,1,1,1
+"France","FR",2005,0,1,1,1,1,1
+"France","FR",2006,0,1,1,1,1,1
+"France","FR",2007,0,1,1,1,1,1
+"France","FR",2008,0,1,1,1,1,1
+"France","FR",2009,1,1,1,1,1,1
+"France","FR",2010,1,1,1,1,1,1
+"France","FR",2011,1,1,1,1,1,1
+"France","FR",2012,1,1,1,1,1,1
+"French Polynesia","PF",2005,0,0,0,0,0,0
+"French Polynesia","PF",2006,0,0,0,0,0,0
+"French Polynesia","PF",2007,0,0,0,0,0,0
+"French Polynesia","PF",2008,0,0,0,0,0,0
+"French Polynesia","PF",2009,0,0,0,0,0,0
+"French Polynesia","PF",2010,0,0,0,0,0,0
+"French Polynesia","PF",2011,0,0,0,0,0,0
+"French Polynesia","PF",2012,0,0,0,0,0,0
+"Germany","DE",2005,0,1,1,1,1,1
+"Germany","DE",2006,0,1,1,1,1,1
+"Germany","DE",2007,0,1,1,1,1,1
+"Germany","DE",2008,0,1,1,1,1,1
+"Germany","DE",2009,1,1,1,1,1,1
+"Germany","DE",2010,1,1,1,1,1,1
+"Germany","DE",2011,1,1,1,1,1,1
+"Germany","DE",2012,1,1,1,1,1,1
+"Greece","GR",2005,0,1,1,1,1,1
+"Greece","GR",2006,0,0,1,1,1,0
+"Greece","GR",2007,0,1,1,1,1,1
+"Greece","GR",2008,0,1,1,1,1,1
+"Greece","GR",2009,1,1,1,1,1,1
+"Greece","GR",2010,1,1,1,1,1,1
+"Greece","GR",2011,1,1,1,1,1,1
+"Greece","GR",2012,1,1,1,1,1,1
+"Greenland","GL",2005,0,0,0,0,0,0
+"Greenland","GL",2006,0,0,0,0,0,0
+"Greenland","GL",2007,0,0,0,0,0,0
+"Greenland","GL",2008,0,0,0,0,0,0
+"Greenland","GL",2009,0,0,0,0,0,0
+"Greenland","GL",2010,0,0,0,0,0,0
+"Greenland","GL",2011,0,0,0,0,0,0
+"Greenland","GL",2012,0,0,0,0,0,0
+"Guam","GU",2005,0,0,0,0,0,0
+"Guam","GU",2006,0,0,0,0,0,0
+"Guam","GU",2007,0,0,0,0,0,0
+"Guam","GU",2008,0,0,0,0,0,0
+"Guam","GU",2009,0,0,0,0,0,0
+"Guam","GU",2010,0,0,0,0,0,0
+"Guam","GU",2011,0,0,0,0,0,0
+"Guam","GU",2012,0,0,0,0,0,0
+"Hong Kong","HK",2005,0,0,0,0,0,0
+"Hong Kong","HK",2006,0,0,0,0,0,0
+"Hong Kong","HK",2007,0,0,0,0,0,0
+"Hong Kong","HK",2008,0,0,0,0,0,0
+"Hong Kong","HK",2009,1,1,1,1,1,1
+"Hong Kong","HK",2010,1,1,1,1,1,1
+"Hong Kong","HK",2011,1,1,1,1,1,1
+"Hong Kong","HK",2012,1,0,0,0,0,0
+"Hungary","HU",2005,0,1,1,1,1,1
+"Hungary","HU",2006,0,1,1,1,1,1
+"Hungary","HU",2007,0,1,1,1,1,1
+"Hungary","HU",2008,0,1,1,1,1,1
+"Hungary","HU",2009,1,1,1,1,1,1
+"Hungary","HU",2010,1,1,1,1,1,1
+"Hungary","HU",2011,1,1,1,1,1,1
+"Hungary","HU",2012,1,1,1,1,1,1
+"Iceland","IS",2005,0,0,0,0,0,0
+"Iceland","IS",2006,0,1,1,1,1,1
+"Iceland","IS",2007,0,1,1,1,1,1
+"Iceland","IS",2008,0,1,1,1,1,1
+"Iceland","IS",2009,1,1,1,1,1,1
+"Iceland","IS",2010,1,1,1,1,1,1
+"Iceland","IS",2011,1,1,1,1,1,1
+"Iceland","IS",2012,1,1,1,1,1,1
+"Ireland","IE",2005,0,1,1,1,1,1
+"Ireland","IE",2006,0,1,1,1,1,1
+"Ireland","IE",2007,0,1,1,1,1,1
+"Ireland","IE",2008,0,1,1,1,1,1
+"Ireland","IE",2009,1,1,1,1,1,1
+"Ireland","IE",2010,1,1,1,1,1,1
+"Ireland","IE",2011,1,1,1,1,1,1
+"Ireland","IE",2012,1,1,1,1,1,1
+"Israel","IL",2005,0,1,0,1,1,1
+"Israel","IL",2006,0,1,0,1,1,1
+"Israel","IL",2007,0,1,0,1,1,1
+"Israel","IL",2008,0,1,0,1,1,1
+"Israel","IL",2009,1,1,0,1,1,1
+"Israel","IL",2010,0,1,0,1,1,1
+"Israel","IL",2011,0,1,0,1,1,1
+"Israel","IL",2012,0,1,0,1,1,1
+"Italy","IT",2005,0,1,1,1,1,1
+"Italy","IT",2006,0,1,1,1,1,1
+"Italy","IT",2007,0,1,1,1,1,1
+"Italy","IT",2008,0,1,1,1,1,1
+"Italy","IT",2009,1,1,1,1,1,1
+"Italy","IT",2010,1,1,1,1,1,1
+"Italy","IT",2011,1,1,1,1,1,1
+"Italy","IT",2012,1,1,1,1,1,1
+"Japan","JP",2005,0,0,0,0,0,0
+"Japan","JP",2006,0,0,0,0,0,0
+"Japan","JP",2007,0,0,0,0,0,0
+"Japan","JP",2008,0,0,0,0,0,0
+"Japan","JP",2009,1,0,1,0,1,0
+"Japan","JP",2010,1,1,1,1,1,1
+"Japan","JP",2011,1,1,1,1,1,1
+"Japan","JP",2012,1,1,1,1,1,1
+"Korea, Republic of","KR",2005,0,1,0,1,1,1
+"Korea, Republic of","KR",2006,0,0,0,0,0,0
+"Korea, Republic of","KR",2007,0,1,0,1,1,1
+"Korea, Republic of","KR",2008,0,1,0,1,1,1
+"Korea, Republic of","KR",2009,1,1,0,1,1,1
+"Korea, Republic of","KR",2010,1,1,0,1,1,1
+"Korea, Republic of","KR",2011,1,1,0,1,1,1
+"Korea, Republic of","KR",2012,1,0,0,0,0,0
+"Kuwait","KW",2005,0,1,0,1,1,1
+"Kuwait","KW",2006,0,1,0,1,1,1
+"Kuwait","KW",2007,0,1,0,1,1,1
+"Kuwait","KW",2008,0,1,0,1,1,1
+"Kuwait","KW",2009,1,1,0,1,1,1
+"Kuwait","KW",2010,1,1,0,1,1,1
+"Kuwait","KW",2011,1,1,0,1,1,1
+"Kuwait","KW",2012,1,1,0,1,1,1
+"Liechtenstein","LI",2005,0,0,0,0,0,0
+"Liechtenstein","LI",2006,0,0,0,0,0,0
+"Liechtenstein","LI",2007,0,0,0,0,0,0
+"Liechtenstein","LI",2008,0,0,0,0,0,0
+"Liechtenstein","LI",2009,0,0,0,0,0,0
+"Liechtenstein","LI",2010,0,0,0,0,0,0
+"Liechtenstein","LI",2011,0,0,0,0,0,0
+"Liechtenstein","LI",2012,0,0,0,0,0,0
+"Luxembourg","LU",2005,0,1,1,1,1,1
+"Luxembourg","LU",2006,0,1,1,1,1,1
+"Luxembourg","LU",2007,0,1,1,1,1,1
+"Luxembourg","LU",2008,0,1,1,1,1,1
+"Luxembourg","LU",2009,1,1,1,1,1,1
+"Luxembourg","LU",2010,1,1,1,1,1,1
+"Luxembourg","LU",2011,1,1,1,1,1,1
+"Luxembourg","LU",2012,1,1,1,1,1,1
+"Macao","MO",2005,0,1,0,1,1,1
+"Macao","MO",2006,0,1,0,1,1,1
+"Macao","MO",2007,0,1,0,1,1,1
+"Macao","MO",2008,0,1,0,1,1,1
+"Macao","MO",2009,1,1,0,1,1,1
+"Macao","MO",2010,1,1,0,1,1,1
+"Macao","MO",2011,1,1,0,1,1,1
+"Macao","MO",2012,1,1,0,1,1,1
+"Malta","MT",2005,0,0,0,0,0,0
+"Malta","MT",2006,0,1,1,1,1,1
+"Malta","MT",2007,0,1,1,1,1,1
+"Malta","MT",2008,0,0,0,0,0,0
+"Malta","MT",2009,1,1,1,1,1,1
+"Malta","MT",2010,1,1,1,1,1,1
+"Malta","MT",2011,1,1,1,1,1,1
+"Malta","MT",2012,1,1,1,1,1,1
+"Mexico","MX",2005,0,0,0,0,0,0
+"Mexico","MX",2006,0,0,0,0,0,0
+"Mexico","MX",2007,0,0,0,0,0,0
+"Mexico","MX",2008,0,0,0,0,0,0
+"Mexico","MX",2009,1,0,0,0,0,0
+"Mexico","MX",2010,1,0,0,0,0,0
+"Mexico","MX",2011,1,0,0,0,0,0
+"Mexico","MX",2012,1,0,0,0,0,0
+"Monaco","MC",2005,0,0,0,0,0,0
+"Monaco","MC",2006,0,0,0,0,0,0
+"Monaco","MC",2007,0,0,0,0,0,0
+"Monaco","MC",2008,0,0,0,0,0,0
+"Monaco","MC",2009,0,0,0,0,0,0
+"Monaco","MC",2010,0,0,0,0,0,0
+"Monaco","MC",2011,0,0,0,0,0,0
+"Monaco","MC",2012,0,0,0,0,0,0
+"Morocco","MA",2005,0,1,0,1,1,1
+"Morocco","MA",2006,0,1,1,1,1,1
+"Morocco","MA",2007,0,1,0,1,1,1
+"Morocco","MA",2008,0,1,0,1,1,1
+"Morocco","MA",2009,1,1,1,1,1,1
+"Morocco","MA",2010,1,1,1,1,1,1
+"Morocco","MA",2011,1,1,1,1,1,1
+"Morocco","MA",2012,1,1,1,1,1,1
+"Netherlands","NL",2005,0,1,1,1,1,1
+"Netherlands","NL",2006,0,1,1,1,1,1
+"Netherlands","NL",2007,0,1,1,1,1,1
+"Netherlands","NL",2008,0,1,1,1,1,1
+"Netherlands","NL",2009,1,1,1,1,1,1
+"Netherlands","NL",2010,1,1,1,1,1,1
+"Netherlands","NL",2011,1,1,1,1,1,1
+"Netherlands","NL",2012,1,1,1,1,1,1
+"New Caledonia","NC",2005,0,0,0,0,0,0
+"New Caledonia","NC",2006,0,0,0,0,0,0
+"New Caledonia","NC",2007,0,0,0,0,0,0
+"New Caledonia","NC",2008,0,0,0,0,0,0
+"New Caledonia","NC",2009,0,0,0,0,0,0
+"New Caledonia","NC",2010,0,0,0,0,0,0
+"New Caledonia","NC",2011,0,0,0,0,0,0
+"New Caledonia","NC",2012,0,0,0,0,0,0
+"New Zealand","NZ",2005,0,1,1,1,1,1
+"New Zealand","NZ",2006,0,1,1,1,1,1
+"New Zealand","NZ",2007,0,1,1,1,1,1
+"New Zealand","NZ",2008,0,0,0,0,0,0
+"New Zealand","NZ",2009,1,0,0,0,0,0
+"New Zealand","NZ",2010,1,1,1,1,1,1
+"New Zealand","NZ",2011,0,1,1,1,1,1
+"New Zealand","NZ",2012,0,1,1,1,1,1
+"Nigeria","NG",2005,0,0,0,0,0,0
+"Nigeria","NG",2006,0,0,0,0,0,0
+"Nigeria","NG",2007,0,0,0,0,0,0
+"Nigeria","NG",2008,0,0,0,0,0,0
+"Nigeria","NG",2009,1,0,0,0,0,0
+"Nigeria","NG",2010,1,0,0,0,0,0
+"Nigeria","NG",2011,1,0,0,0,0,0
+"Nigeria","NG",2012,1,1,1,1,1,1
+"Northern Mariana Islands","MP",2005,0,0,0,0,0,0
+"Northern Mariana Islands","MP",2006,0,0,0,0,0,0
+"Northern Mariana Islands","MP",2007,0,0,0,0,0,0
+"Northern Mariana Islands","MP",2008,0,0,0,0,0,0
+"Northern Mariana Islands","MP",2009,0,0,0,0,0,0
+"Northern Mariana Islands","MP",2010,0,0,0,0,0,0
+"Northern Mariana Islands","MP",2011,0,0,0,0,0,0
+"Northern Mariana Islands","MP",2012,0,0,0,0,0,0
+"Norway","NO",2005,0,1,1,1,1,1
+"Norway","NO",2006,0,1,1,1,1,1
+"Norway","NO",2007,0,1,1,1,1,1
+"Norway","NO",2008,0,1,1,1,1,1
+"Norway","NO",2009,0,1,1,1,1,1
+"Norway","NO",2010,0,1,1,1,1,1
+"Norway","NO",2011,0,1,1,1,1,1
+"Norway","NO",2012,0,1,1,1,1,1
+"Oman","OM",2005,0,0,0,0,0,0
+"Oman","OM",2006,0,0,0,0,0,0
+"Oman","OM",2007,0,0,0,0,0,0
+"Oman","OM",2008,0,0,0,0,0,0
+"Oman","OM",2009,1,0,0,0,0,0
+"Oman","OM",2010,1,0,0,0,0,0
+"Oman","OM",2011,1,1,0,1,1,1
+"Oman","OM",2012,1,1,0,1,1,1
+"Panama","PA",2005,0,0,0,0,0,0
+"Panama","PA",2006,0,0,0,0,0,0
+"Panama","PA",2007,0,0,0,0,0,0
+"Panama","PA",2008,0,0,0,0,0,0
+"Panama","PA",2009,1,0,0,0,0,0
+"Panama","PA",2010,1,0,0,0,0,0
+"Panama","PA",2011,1,0,0,0,0,0
+"Panama","PA",2012,1,0,0,0,0,0
+"Peru","PE",2005,0,1,0,1,1,1
+"Peru","PE",2006,0,0,0,0,0,0
+"Peru","PE",2007,0,1,1,1,1,1
+"Peru","PE",2008,0,1,1,1,1,1
+"Peru","PE",2009,1,1,1,1,1,1
+"Peru","PE",2010,1,1,1,1,1,1
+"Peru","PE",2011,1,1,1,1,1,1
+"Peru","PE",2012,1,1,1,1,1,1
+"Philippines","PH",2005,0,1,0,1,1,1
+"Philippines","PH",2006,0,1,0,1,1,1
+"Philippines","PH",2007,0,1,0,1,1,1
+"Philippines","PH",2008,0,1,0,1,1,1
+"Philippines","PH",2009,1,1,0,1,1,1
+"Philippines","PH",2010,1,1,0,1,1,1
+"Philippines","PH",2011,1,1,0,1,1,1
+"Philippines","PH",2012,1,1,1,1,1,1
+"Poland","PL",2005,0,1,1,1,1,1
+"Poland","PL",2006,0,1,1,1,1,1
+"Poland","PL",2007,0,1,0,1,1,1
+"Poland","PL",2008,0,1,1,1,1,1
+"Poland","PL",2009,1,1,1,1,1,1
+"Poland","PL",2010,1,1,0,1,1,1
+"Poland","PL",2011,1,1,0,1,1,1
+"Poland","PL",2012,1,1,0,1,1,1
+"Portugal","PT",2005,0,1,1,1,1,1
+"Portugal","PT",2006,0,1,1,1,1,1
+"Portugal","PT",2007,0,1,1,1,1,1
+"Portugal","PT",2008,0,1,1,1,1,1
+"Portugal","PT",2009,1,1,1,1,1,1
+"Portugal","PT",2010,1,1,1,1,1,1
+"Portugal","PT",2011,1,1,1,1,1,1
+"Portugal","PT",2012,1,1,1,1,1,1
+"Puerto Rico","PR",2005,0,0,0,NA,NA,NA
+"Puerto Rico","PR",2006,0,0,0,NA,NA,NA
+"Puerto Rico","PR",2007,0,0,0,NA,NA,NA
+"Puerto Rico","PR",2008,0,0,0,NA,NA,NA
+"Puerto Rico","PR",2009,0,0,0,NA,NA,NA
+"Puerto Rico","PR",2010,0,0,0,NA,NA,NA
+"Puerto Rico","PR",2011,0,0,0,NA,NA,NA
+"Puerto Rico","PR",2012,0,0,0,NA,NA,NA
+"Qatar","QA",2005,0,0,0,0,0,0
+"Qatar","QA",2006,0,0,0,0,0,0
+"Qatar","QA",2007,0,0,0,0,0,0
+"Qatar","QA",2008,0,0,0,0,0,0
+"Qatar","QA",2009,1,1,0,1,1,1
+"Qatar","QA",2010,1,1,0,1,1,1
+"Qatar","QA",2011,1,0,0,0,0,0
+"Qatar","QA",2012,1,0,0,0,0,0
+"Russian Federation","RU",2005,0,1,0,1,1,1
+"Russian Federation","RU",2006,0,1,0,1,1,1
+"Russian Federation","RU",2007,0,1,1,1,1,1
+"Russian Federation","RU",2008,0,1,1,1,1,1
+"Russian Federation","RU",2009,1,1,1,1,1,1
+"Russian Federation","RU",2010,1,1,1,1,1,1
+"Russian Federation","RU",2011,1,1,1,1,1,1
+"Russian Federation","RU",2012,1,1,1,1,1,1
+"Saint Martin (French part)","MF",2005,0,0,0,0,0,0
+"Saint Martin (French part)","MF",2006,0,0,0,0,0,0
+"Saint Martin (French part)","MF",2007,0,0,0,0,0,0
+"Saint Martin (French part)","MF",2008,0,0,0,0,0,0
+"Saint Martin (French part)","MF",2009,0,0,0,0,0,0
+"Saint Martin (French part)","MF",2010,0,0,0,0,0,0
+"Saint Martin (French part)","MF",2011,0,0,0,0,0,0
+"Saint Martin (French part)","MF",2012,0,0,0,0,0,0
+"San Marino","SM",2005,0,0,0,0,0,0
+"San Marino","SM",2006,0,0,0,0,0,0
+"San Marino","SM",2007,0,0,0,0,0,0
+"San Marino","SM",2008,0,0,0,0,0,0
+"San Marino","SM",2009,0,0,0,0,0,0
+"San Marino","SM",2010,0,0,0,0,0,0
+"San Marino","SM",2011,0,0,0,0,0,0
+"San Marino","SM",2012,0,0,0,0,0,0
+"Saudi Arabia","SA",2005,0,0,0,0,0,0
+"Saudi Arabia","SA",2006,0,0,0,0,0,0
+"Saudi Arabia","SA",2007,0,0,0,0,0,0
+"Saudi Arabia","SA",2008,0,0,0,0,0,0
+"Saudi Arabia","SA",2009,1,0,0,0,0,0
+"Saudi Arabia","SA",2010,1,0,0,0,0,0
+"Saudi Arabia","SA",2011,1,0,0,0,0,0
+"Saudi Arabia","SA",2012,1,0,0,0,0,0
+"Singapore","SG",2005,0,0,0,0,0,0
+"Singapore","SG",2006,0,0,0,0,0,0
+"Singapore","SG",2007,0,1,1,1,1,1
+"Singapore","SG",2008,0,1,1,1,1,1
+"Singapore","SG",2009,1,1,1,1,1,1
+"Singapore","SG",2010,1,1,1,1,1,1
+"Singapore","SG",2011,1,1,1,1,1,1
+"Singapore","SG",2012,1,1,1,1,1,1
+"Sint Maarten (Dutch part)","SX",2005,0,0,0,0,0,0
+"Sint Maarten (Dutch part)","SX",2006,0,0,0,0,0,0
+"Sint Maarten (Dutch part)","SX",2007,0,0,0,0,0,0
+"Sint Maarten (Dutch part)","SX",2008,0,0,0,0,0,0
+"Sint Maarten (Dutch part)","SX",2009,0,0,0,0,0,0
+"Sint Maarten (Dutch part)","SX",2010,0,0,0,0,0,0
+"Sint Maarten (Dutch part)","SX",2011,0,0,0,0,0,0
+"Sint Maarten (Dutch part)","SX",2012,0,0,0,0,0,0
+"Slovakia","SK",2005,0,1,1,1,1,1
+"Slovakia","SK",2006,0,1,1,1,1,1
+"Slovakia","SK",2007,0,1,1,1,1,1
+"Slovakia","SK",2008,0,1,1,1,1,1
+"Slovakia","SK",2009,0,1,1,1,1,1
+"Slovakia","SK",2010,0,1,1,1,1,1
+"Slovakia","SK",2011,0,1,1,1,1,1
+"Slovakia","SK",2012,0,1,1,1,1,1
+"Slovenia","SI",2005,0,1,0,1,1,1
+"Slovenia","SI",2006,0,1,0,1,1,1
+"Slovenia","SI",2007,0,1,0,1,1,1
+"Slovenia","SI",2008,0,1,0,1,1,1
+"Slovenia","SI",2009,1,1,0,1,1,1
+"Slovenia","SI",2010,1,1,0,1,1,1
+"Slovenia","SI",2011,1,1,0,1,1,1
+"Slovenia","SI",2012,1,1,0,1,1,1
+"South Africa","ZA",2005,0,1,0,1,1,1
+"South Africa","ZA",2006,0,1,0,1,1,1
+"South Africa","ZA",2007,0,1,0,1,1,1
+"South Africa","ZA",2008,0,1,0,1,1,1
+"South Africa","ZA",2009,1,1,0,1,1,1
+"South Africa","ZA",2010,1,1,0,1,1,1
+"South Africa","ZA",2011,1,1,0,1,1,1
+"South Africa","ZA",2012,1,1,0,1,1,1
+"Spain","ES",2005,0,1,1,1,1,1
+"Spain","ES",2006,0,1,1,1,1,1
+"Spain","ES",2007,0,1,1,1,1,1
+"Spain","ES",2008,0,1,1,1,1,1
+"Spain","ES",2009,1,1,1,1,1,1
+"Spain","ES",2010,1,1,1,1,1,1
+"Spain","ES",2011,1,1,1,1,1,1
+"Spain","ES",2012,1,1,1,1,1,1
+"Sweden","SE",2005,0,1,1,1,1,1
+"Sweden","SE",2006,0,1,1,1,1,1
+"Sweden","SE",2007,0,0,0,0,0,0
+"Sweden","SE",2008,0,1,1,1,1,1
+"Sweden","SE",2009,1,0,1,0,1,0
+"Sweden","SE",2010,1,1,1,1,1,1
+"Sweden","SE",2011,1,1,1,1,1,1
+"Sweden","SE",2012,1,1,1,1,1,1
+"Switzerland","CH",2005,0,0,0,0,0,0
+"Switzerland","CH",2006,0,0,0,0,0,0
+"Switzerland","CH",2007,0,0,0,0,0,0
+"Switzerland","CH",2008,0,0,0,0,0,0
+"Switzerland","CH",2009,1,0,0,0,0,0
+"Switzerland","CH",2010,1,0,0,0,0,0
+"Switzerland","CH",2011,1,0,0,0,0,0
+"Switzerland","CH",2012,1,0,0,0,0,0
+"Trinidad and Tobago","TT",2005,0,0,0,0,0,0
+"Trinidad and Tobago","TT",2006,0,0,0,0,0,0
+"Trinidad and Tobago","TT",2007,0,0,0,0,0,0
+"Trinidad and Tobago","TT",2008,0,0,0,0,0,0
+"Trinidad and Tobago","TT",2009,1,0,0,0,0,0
+"Trinidad and Tobago","TT",2010,0,0,0,0,0,0
+"Trinidad and Tobago","TT",2011,1,0,0,0,0,0
+"Trinidad and Tobago","TT",2012,1,0,0,0,0,0
+"Turkey","TR",2005,0,0,0,0,0,0
+"Turkey","TR",2006,0,1,1,1,1,1
+"Turkey","TR",2007,0,1,1,1,1,1
+"Turkey","TR",2008,0,1,1,1,1,1
+"Turkey","TR",2009,1,1,1,1,1,1
+"Turkey","TR",2010,1,1,1,1,1,1
+"Turkey","TR",2011,1,1,1,1,1,1
+"Turkey","TR",2012,1,1,1,1,1,1
+"Turks and Caicos Islands","TC",2005,0,0,0,0,0,0
+"Turks and Caicos Islands","TC",2006,0,0,0,0,0,0
+"Turks and Caicos Islands","TC",2007,0,0,0,0,0,0
+"Turks and Caicos Islands","TC",2008,0,0,0,0,0,0
+"Turks and Caicos Islands","TC",2009,0,0,0,0,0,0
+"Turks and Caicos Islands","TC",2010,0,0,0,0,0,0
+"Turks and Caicos Islands","TC",2011,0,0,0,0,0,0
+"Turks and Caicos Islands","TC",2012,0,0,0,0,0,0
+"Ukraine","UA",2005,0,1,0,1,1,1
+"Ukraine","UA",2006,0,1,0,1,1,1
+"Ukraine","UA",2007,0,1,1,1,1,1
+"Ukraine","UA",2008,0,1,0,1,1,1
+"Ukraine","UA",2009,1,1,0,1,1,1
+"Ukraine","UA",2010,1,1,1,1,1,1
+"Ukraine","UA",2011,1,1,1,1,1,1
+"Ukraine","UA",2012,1,1,1,1,1,1
+"United Arab Emirates","AE",2005,0,0,0,0,0,0
+"United Arab Emirates","AE",2006,0,0,0,0,0,0
+"United Arab Emirates","AE",2007,0,0,0,0,0,0
+"United Arab Emirates","AE",2008,0,0,0,0,0,0
+"United Arab Emirates","AE",2009,1,0,0,0,0,0
+"United Arab Emirates","AE",2010,1,0,0,0,0,0
+"United Arab Emirates","AE",2011,1,0,0,0,0,0
+"United Arab Emirates","AE",2012,1,1,0,1,1,1
+"United Kingdom","GB",2005,0,1,0,1,1,1
+"United Kingdom","GB",2006,0,1,1,1,1,1
+"United Kingdom","GB",2007,0,1,1,1,1,1
+"United Kingdom","GB",2008,0,1,1,1,1,1
+"United Kingdom","GB",2009,1,1,1,1,1,1
+"United Kingdom","GB",2010,1,1,1,1,1,1
+"United Kingdom","GB",2011,1,1,1,1,1,1
+"United Kingdom","GB",2012,1,1,1,1,1,1
+"United States","US",2005,0,1,1,1,1,1
+"United States","US",2006,0,1,1,1,1,1
+"United States","US",2007,0,1,1,1,1,1
+"United States","US",2008,0,1,1,1,1,1
+"United States","US",2009,1,1,1,1,1,1
+"United States","US",2010,1,1,1,1,1,1
+"United States","US",2011,1,1,1,1,1,1
+"United States","US",2012,1,1,1,1,1,1
+"Venezuela, Bolivarian Republic of","VE",2005,0,1,0,1,1,1
+"Venezuela, Bolivarian Republic of","VE",2006,0,0,0,0,0,0
+"Venezuela, Bolivarian Republic of","VE",2007,0,0,0,0,0,0
+"Venezuela, Bolivarian Republic of","VE",2008,0,0,0,0,0,0
+"Venezuela, Bolivarian Republic of","VE",2009,0,0,0,0,0,0
+"Venezuela, Bolivarian Republic of","VE",2010,1,0,0,0,0,0
+"Venezuela, Bolivarian Republic of","VE",2011,1,0,0,0,0,0
+"Venezuela, Bolivarian Republic of","VE",2012,1,0,0,0,0,0
+"Virgin Islands, U.S.","VI",2005,0,0,0,0,0,0
+"Virgin Islands, U.S.","VI",2006,0,0,0,0,0,0
+"Virgin Islands, U.S.","VI",2007,0,0,0,0,0,0
+"Virgin Islands, U.S.","VI",2008,0,0,0,0,0,0
+"Virgin Islands, U.S.","VI",2009,0,0,0,0,0,0
+"Virgin Islands, U.S.","VI",2010,0,0,0,0,0,0
+"Virgin Islands, U.S.","VI",2011,0,0,0,0,0,0
+"Virgin Islands, U.S.","VI",2012,0,0,0,0,0,0
