@@ -16,7 +16,6 @@ library(countrycode)
 library(DataCombine)
 
 # Function to find the proportion of indicators reported
-
 PropReported <- function(data){
     vars <- grep('Rep_.*', names(data), value = TRUE)
     data$sum <- rowSums(data[, vars])
