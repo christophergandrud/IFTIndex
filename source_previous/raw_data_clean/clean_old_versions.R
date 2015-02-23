@@ -30,9 +30,9 @@ PropReported <- function(data){
 # Load data
 ## Data downloaded from http://databank.worldbank.org/data/databases/archives
 ## February 2015
-fiscal_old_1 <- read.csv('source_previous_raw/raw_data_clean/fiscal_all_1.csv', 
+fiscal_old_1 <- read.csv('source_previous/raw_data_clean/fiscal_all_1.csv', 
                  stringsAsFactors = F)
-fiscal_old_2 <- read.csv('source_previous_raw/raw_data_clean/fiscal_all_2.csv', 
+fiscal_old_2 <- read.csv('source_previous/raw_data_clean/fiscal_all_2.csv', 
                        stringsAsFactors = F)
 
 fiscal_old <- rbind(fiscal_old_1, fiscal_old_2)
@@ -122,7 +122,8 @@ fiscal_clean <- fiscal_clean %>% filter(year != 2013)
 
 # Subset for included countries
 included <- 'source/data_cleaned/proportion_reported.csv' %>%
-                read.csv(stringsAsFactors = F)
+                read.csv(stringsAsFactors = F) %>%
+                filter(country != 'Puerto Rico')
 included <- unique(included$iso2c)
 
 fiscal_clean <- fiscal_clean %>% filter(iso2c %in% included)
@@ -132,8 +133,8 @@ prop_reported <- PropReported(fiscal_clean)
 
 # Save
 write.csv(prop_reported, 
-          file = 'source_previous_raw/data_cleaned/proportion_previous_reported.csv',
+          file = 'source_previous/data_cleaned/proportion_previous_reported.csv',
           row.names = F)
 write.csv(fiscal_clean, 
-          file = 'source_previous_raw/data_cleaned/wdi_previous_fiscal.csv',
+          file = 'source_previous/data_cleaned/wdi_previous_fiscal.csv',
           row.names = F)
