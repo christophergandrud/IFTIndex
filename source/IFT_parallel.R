@@ -1,7 +1,7 @@
 ###########################
 # Run model in parallel
 # Christopher Gandrud
-# 20 February 2014
+# 16 March 2015
 # MIT License
 ###########################
 
@@ -15,12 +15,12 @@ library(rstan)
 library(parallel)
 
 # Set working directory. Change as needed.
-setwd('/git_repositories/IFTIndex/')
+setwd('~/git_repositories/IFTIndex/')
 
 ## Set out width
 options('width' = 200)
 
-# Load function to subset the data frame to countries that report 
+# Load function to subset the data frame to countries that report
 # at least 1 item.
 source_url('https://raw.githubusercontent.com/FGCH/FRTIndex/master/source/miscFunctions/report_min_once.R')
 
@@ -80,11 +80,10 @@ sflist <-
     mclapply(1:4, mc.cores = 4,
              function(i) stan(fit = empty_stan, data = ift_data,
                               seed = i, chains = 1,
-                              iter = 50, chain_id = i,
-                              pars = c('delta', 'alpha', 'beta', 'log_gamma')
-                              #,
-                              #diagnostic_file = paste0(
-                              #    'ift_sims_diagnostic', Sys.Date())
+                              iter = 5000, chain_id = i,
+                              pars = c('delta', 'alpha', 'beta', 'log_gamma'),
+                              diagnostic_file =
+                                sprintf('ift_sims_diagnostic_%s', Sys.Date())
              )
     )
 
@@ -92,4 +91,4 @@ sflist <-
 fit <- sflist2stanfit(sflist)
 
 # Save Stan fit object
-save(fit, file = paste0('fit_', Sys.Date(), '.RData'))
+save(fit, file = sprintf('fit_%s.RData', Sys.Date()))
