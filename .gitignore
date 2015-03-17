@@ -3,6 +3,7 @@
 .DS_Store
 completer.hist
 .Rhistory
+.Rdata
 
 ## Ignore raw data, which is > 500mb
 source/raw_data_clean/raw/*
@@ -10,3 +11,5 @@ source/raw_data_clean/raw/*
 
 ## Ignore .RData files as they are large in this project
 *.RData
+nohup.out
+ift_sims_diagnostic*
